@@ -1,0 +1,8 @@
+Banco de Dados
+------------------------------------------------------------
+
+Nome do banco: facil580_facilitesacola
+user: facil580_adm
+senha: G)E=xBMZeHRY
+IP: 50.116.87.48
+domínio: facilitesacola.com.br
